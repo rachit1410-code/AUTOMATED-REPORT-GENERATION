@@ -132,6 +132,7 @@ Date,Product,Quantity,Price
 📄 Sample Output
 
 ```Monthly_Sales_Report.pdf``` will include:
+[Monthly_Sales_Report.pdf](https://github.com/user-attachments/files/21704820/Monthly_Sales_Report.pdf)
 
 Report title
 
