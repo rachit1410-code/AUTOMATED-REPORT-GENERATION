@@ -131,6 +131,7 @@ Date,Product,Quantity,Price
 
 📄 Sample Output
 
+<img width="708" height="307" alt="Image" src="https://github.com/user-attachments/assets/105fd315-9bc3-4366-843c-402bf9f8e34b" />
 ```Monthly_Sales_Report.pdf``` will include:
 [Monthly_Sales_Report.pdf](https://github.com/user-attachments/files/21704820/Monthly_Sales_Report.pdf)
 
